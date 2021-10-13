@@ -1,5 +1,5 @@
 - Hi, I'm @waltbai
-- I'm a Phd. student in Institue of Computing Technology, Chinese Academy of Sciences.
+- I'm a Phd. student from Institue of Computing Technology, Chinese Academy of Sciences.
 - I'm interested in natural language processing and knowledge graph.
 - How to reach me: bailong18b@ict.ac.cn
 
