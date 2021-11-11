@@ -1,5 +1,5 @@
 - Hi, I'm Long Bai
-- I'm a PhD. student from Institue of Computing Technology, Chinese Academy of Sciences.
+- I'm a PhD. student at Institue of Computing Technology, Chinese Academy of Sciences.
 - I'm interested in natural language processing and knowledge graph.
 - Email: bailong18b@ict.ac.cn
 
