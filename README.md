@@ -1,6 +1,6 @@
 - Hi, I'm Long Bai.
-- I'm a Postdoc at Institue of Computing Technology, Chinese Academy of Sciences.
-- I'm interested in natural language processing and knowledge graph.
+- I'm a research assistant at Institue of Computing Technology, Chinese Academy of Sciences.
+- I'm interested in knowledge graph and natural language processing.
 - Email: bailong@ict.ac.cn
 
 <!---
