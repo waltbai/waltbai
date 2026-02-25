@@ -1,6 +1,6 @@
 - Hi, I'm Long Bai.
 - I'm a research assistant at Institue of Computing Technology, Chinese Academy of Sciences.  
-Now I am visiting at NExT Research Centre, National University of Singapore.
+Now I am visiting National University of Singapore.
 - I'm interested in the integration of knowledge computing and natural language processing.  
 Currently I am focusing on studying knowledge-based deep research frameworks.
 - Email: bailong@ict.ac.cn
