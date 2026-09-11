@@ -2,7 +2,7 @@
 - I'm a research assistant at Institue of Computing Technology, Chinese Academy of Sciences.  
 Now I am visiting National University of Singapore.
 - I'm interested in the integration of knowledge computing and natural language processing.  
-Currently I am focusing on studying knowledge-based deep research frameworks.
+Currently I am focusing on scientific knowledge computing for research agents.
 - Email: bailong@ict.ac.cn (Preferred), bailong7799@gmail.com
 
 <!---
